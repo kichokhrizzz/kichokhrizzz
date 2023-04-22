@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jhosel Badillo Cortes a.k.a Kichokhrizzz</h1>
 <h3 align="center">Lover of mobile development from Mexico 🇲🇽</h3>
 
-- 📫 How to reach me **jhosel.badillo.cortes**
+- Play Store [NameMyPet](https://play.google.com/store/apps/details?id=app.namemypet.jhoselbadillocortes)
+
+- 📫 How to reach me **jhosel.badillo.cortes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
